@@ -1,10 +1,16 @@
 # Flatland: Getting Started
 
+
+
+![Flatland](https://i.imgur.com/0rnbSLY.gif)
+
 > **Flatland** is a opensource toolkit for developing and comparing Multi Agent Reinforcement Learning algorithms in gridworlds.
 
 These notebooks will get you started on the right track with the Flatland environment, in order to take part in the **[Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge)**.
 
-The Flatland Environment
+If you want to dive into challenge baselines right away, [check out the various approaches below](#challenge-baselines). 
+
+Discovering Flatland
 ---
 
 **Part 1: The Rail Environment**
@@ -51,10 +57,10 @@ The Flatland Environment
 - Handling partial moves
 
 
-Taking Part in the Challenge
+Challenge Baselines
 ---
 
-The Flatland Challenge can be approached in different ways - for example using methods from **operations research** or using **reinforcement learning**, or anything in-between.
+The Flatland Challenge can be approached in different ways - for example using methods from **operations research**, **reinforcement learning**, or anything in-between.
 
 The following notebooks show how to approach the problem using each of these methods.
 
@@ -69,3 +75,5 @@ Solve simple rail problems using Double DQN.
 
 [![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_5.ipynb)
+
+Solve simple rail problems using OR methods.
