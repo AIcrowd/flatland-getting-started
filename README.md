@@ -9,7 +9,7 @@ The Flatland Environment
 
 **Part 1: The Rail Environment**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb])
+[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_1.ipynb)
 
 - Create a `RailEnv` environment and render it
@@ -18,7 +18,7 @@ The Flatland Environment
 
 **Part 2: Observations & Predictions**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_2.ipynb])
+[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_2.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_2.ipynb)
 
 - Finding suitable observations
@@ -27,7 +27,7 @@ The Flatland Environment
 
 **Part 3: Level Generation**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb])
+[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_3.ipynb)
 
 - Creating random rail networks
@@ -36,7 +36,7 @@ The Flatland Environment
 
 **Part 4: Malfunctions**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb])
+[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_4.ipynb)
 
 - Introducing stochastic malfunctions
@@ -44,7 +44,7 @@ The Flatland Environment
 
 **Part 5: Speed Profiles**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb])
+[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_5.ipynb)
 
 - Handling agent speed
@@ -60,12 +60,12 @@ The following notebooks show how to approach the problem using each of these met
 
 **Reinforcement Learning: DDQN**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb])
+[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_5.ipynb)
 
 Solve simple rail problems using Double DQN.
 
 **Operations Research**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb])
+[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_5.ipynb)
