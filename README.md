@@ -4,7 +4,7 @@
 
 These notebooks will get you started on the right track with the Flatland environment, in order to take part in the **[Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge)**.
 
-Discovering the environment
+The Flatland Environment
 ---
 
 **Part 1: The Rail Environment**
@@ -51,7 +51,7 @@ Discovering the environment
 - Handling partial moves
 
 
-Taking part in the challenge
+Taking Part in the Challenge
 ---
 
 The Flatland Challenge can be approached in different ways - for example using methods from **operations research** or using **reinforcement learning**, or anything in-between.
@@ -66,3 +66,6 @@ The following notebooks show how to approach the problem using each of these met
 Solve simple rail problems using Double DQN.
 
 **Operations Research**
+
+[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_5.ipynb)
