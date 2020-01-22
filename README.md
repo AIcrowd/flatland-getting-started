@@ -20,6 +20,8 @@ Discovering Flatland
 - Check out the default observations
 - "Train" a random agent
 
+![notebook1](assets/movie.gif)
+
 **Part 2: Observations & Predictions**
 
 [![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_2.ipynb)
