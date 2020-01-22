@@ -4,7 +4,7 @@
 
 > **Flatland** is an environment for developing and comparing multi-agent reinforcement learning algorithms in gridworlds.
 
-This repository contains notebooks to get you started on the right track with the Flatland environment, in order to take part in the [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge).
+This repository contains notebooks to get you started on the right track with the Flatland environment, in order to take part in the [AIcrowd Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge).
 
 If you want to dive into challenge baselines right away, [check out the various approaches below](#challenge-baselines). 
 
@@ -58,7 +58,7 @@ Discovering Flatland
 Challenge Baselines
 ---
 
-The Flatland Challenge can be approached in different ways - for example using methods from **operations research**, **reinforcement learning**, or anything in-between.
+The Flatland Challenge can be approached in different ways - for example using methods from **operations research**, **reinforcement learning**, or anything else!
 
 The following notebooks show how to approach the problem using each of these methods.
 
