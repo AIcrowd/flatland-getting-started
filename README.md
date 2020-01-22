@@ -1,7 +1,5 @@
 # Getting Started with Flatland
 
-![Flatland](https://i.imgur.com/0rnbSLY.gif)
-
 > **Flatland** is an environment for developing and comparing multi-agent reinforcement learning algorithms in gridworlds.
 
 This repository contains notebooks to get you started on the right track with the Flatland environment, in order to take part in the [AIcrowd Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge).
