@@ -11,27 +11,29 @@ Discovering Flatland
 
 **Part 1: The Rail Environment**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
+[![Open In Binder](https://mybinder.org/static/images/badge_logo.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_1.ipynb)
 
 - Create a `RailEnv` environment and render it
 - Check out the default observations
 - "Train" a random agent
 
-![notebook1](assets/movie.gif)
+![notebook1](assets/sparse_env.png)
 
-**Part 2: Observations & Predictions**
+**Part 2: Observations**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_2.ipynb)
+[![Open In Binder](https://mybinder.org/static/images/badge_logo.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_2.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_2.ipynb)
 
 - Finding suitable observations
-- Using predictions
-- Crafting custom observations and predictions
+- Creating your own observations
+- Visualizing observations
+
+![notebook2](assets/movie.gif)
 
 **Part 3: Level Generation**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
+[![Open In Binder](https://mybinder.org/static/images/badge_logo.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_3.ipynb)
 
 - Creating random rail networks
@@ -40,7 +42,7 @@ Discovering Flatland
 
 **Part 4: Malfunctions**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
+[![Open In Binder](https://mybinder.org/static/images/badge_logo.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_4.ipynb)
 
 - Introducing stochastic malfunctions
@@ -48,14 +50,14 @@ Discovering Flatland
 
 **Part 5: Speed Profiles**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
+[![Open In Binder](https://mybinder.org/static/images/badge_logo.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_5.ipynb)
 
 - Handling agent speed
 - Handling partial moves
 
 
-Challenge Baselines
+Challenge Baselines - Coming soon!
 ---
 
 The Flatland Challenge can be approached in different ways - for example using methods from **operations research**, **reinforcement learning**, or anything else!
@@ -64,14 +66,14 @@ The following notebooks show how to approach the problem using each of these met
 
 **Reinforcement Learning: DDQN**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
+[![Open In Binder](https://mybinder.org/static/images/badge_logo.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_5.ipynb)
 
 Solve simple rail problems using Double DQN.
 
 **Operations Research**
 
-[![Open In Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
+[![Open In Binder](https://mybinder.org/static/images/badge_logo.svg)](https://mybinder.org/v2/gh/MasterScrat/getting-started/master?filepath=notebook_1.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MasterScrat/getting-started/blob/master/notebook_5.ipynb)
 
 Solve simple rail problems using OR methods.
